@@ -1,0 +1,47 @@
+* {
+   text-align: center; 
+}
+
+body{
+   background-image: url("https://media.istockphoto.com/id/613783168/photo/railway-station-with-beautiful-modern-red-commuter-train-at-suns.jpg?s=612x612&w=0&k=20&c=rajbM4u0zvcVZDiUFZpH-D2X-nhpMmyJ5K6HvDWSbs0="); 
+   background-size: cover;
+   font-weight:bold;
+   text-align: center;
+}
+
+h1{
+   font-size:xx-large;
+   margin-top: 10px;
+   margin-bottom: 20px;
+}
+
+h2{
+   font-size: xx-large;
+   margin-top: 0px;
+   margin-bottom: 20px;
+}
+
+button{
+   border: none;
+   background-color: red;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   color: beige;
+   font-weight: bold;
+   width: 200px;
+   margin-bottom: 5px;
+   border-radius: 5px;
+}
+
+#btn-clk{
+   background-color: brown;
+}
+
+#save-btn{
+   
+   background-color: darkgreen;
+}
+
+#on-click{
+   background-color: blue;
+}
